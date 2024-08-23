@@ -7,3 +7,4 @@ This repo used to save my certificates of different courses and others can see t
 4. [Javascript basic by HackerRank](https://www.hackerrank.com/certificates/58d76e021ae4)
 5. [SQL basic by HackerRank](https://www.hackerrank.com/certificates/d91c7c809d16)
 6. [Software Engineer Intern Certificate by HackerRank](https://www.hackerrank.com/certificates/ac715779e63f)
+7. [Python Django Basics | Develop 2 Practical Projects](https://rathank.com/tutor-certificate?cert_hash=3100a9dfe8ea9d13)
